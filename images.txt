@@ -1,3 +1,5 @@
 rethinkdb:2.4.2
 devicefarmer/adb:latest
 devicefarmer/stf
+python:3.7-slim
+alas:latest

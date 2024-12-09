@@ -3,3 +3,6 @@ devicefarmer/adb:latest
 devicefarmer/stf
 python:3.7-slim
 redroid/redroid:12.0.0_64only-latest
+linuxserver/emby:latest
+linuxserver/jackett:latest
+linuxserver/qbittorrent:latest

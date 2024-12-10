@@ -7,3 +7,4 @@ linuxserver/emby:latest
 linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
 dpanel/dpanel:latest
+alpine:latest

@@ -6,3 +6,4 @@ redroid/redroid:12.0.0_64only-latest
 linuxserver/emby:latest
 linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
+dpanel/dpanel:latest

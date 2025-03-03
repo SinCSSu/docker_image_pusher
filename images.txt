@@ -10,3 +10,5 @@ dpanel/dpanel:latest
 alpine:latest
 allanpk716/chinesesubfinder:latest
 nginx:latest
+fireflyiii/core:latest
+mariadb:lts

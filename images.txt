@@ -12,3 +12,4 @@ allanpk716/chinesesubfinder:latest
 nginx:latest
 fireflyiii/core:latest
 mariadb:lts
+ghcr.io/lagrangedev/lagrange.onebot:sha-7a108da

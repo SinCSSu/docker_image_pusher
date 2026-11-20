@@ -1,3 +1,4 @@
 ghcr.io/germondai/trawl:latest
 node:22-alpine
 eclipse-temurin:17-jdk
+eclipse-temurin:17-jre

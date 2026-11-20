@@ -1,17 +1,1 @@
-rethinkdb:2.4.2
-devicefarmer/adb:latest
-devicefarmer/stf
-python:3.7-slim
-redroid/redroid:12.0.0_64only-latest
-linuxserver/emby:latest
-linuxserver/jackett:latest
-linuxserver/qbittorrent:latest
-dpanel/dpanel:latest
-alpine:latest
-allanpk716/chinesesubfinder:latest
-nginx:latest
-fireflyiii/core:latest
-mariadb:lts
-ghcr.io/lagrangedev/lagrange.onebot:sha-7a108da
-ghcr.io/flaresolverr/flaresolverr:latest
 ghcr.io/germondai/trawl:latest
